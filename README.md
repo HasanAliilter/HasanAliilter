@@ -17,6 +17,6 @@
 <a href="https://www.hackerrank.com/hasanilter003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasanilter003" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaliilter&show_icons=true&locale=en&layout=compact" alt="hasanaliilter" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanaliilter&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hasanaliilter" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaliilter&show_icons=true&locale=en" alt="hasanaliilter" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaliilter&show_icons=true&locale=en&theme=tokyonight" alt="hasanaliilter" /></p>
