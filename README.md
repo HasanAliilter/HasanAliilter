@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanaliilter&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaliilter" /> </p>
 
-- 🌱 I’m currently learning **Java,C,JavaScript,HTML5,CSS3**
+- 🌱 I’m currently learning **Java,C,JavaScript,HTML5,CSS3,Unity,C#**
 
 - 📝 I regularly write articles on [https://medium.com/@hasanilter003](https://medium.com/@hasanilter003)
 
