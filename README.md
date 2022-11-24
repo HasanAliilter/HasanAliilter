@@ -6,13 +6,13 @@
   </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanaliilter&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaliilter" /> </p>
-<p align="center">
-- 🌱 I’m currently learning **Java,C,JavaScript,HTML5,CSS3,Unity,C#**
 
-- 📝 I regularly write articles on [https://medium.com/@hasanilter003](https://medium.com/@hasanilter003)
+<p align="center">- 🌱 I’m currently learning **Java,C,JavaScript,HTML5,CSS3,Unity,C#**</p>
 
-- 📫 How to reach me **hasanilter003@gmail.com**
-</p>
+<p align="center">- 📝 I regularly write articles on [https://medium.com/@hasanilter003](https://medium.com/@hasanilter003)</p>
+
+<p align="center">- 📫 How to reach me **hasanilter003@gmail.com**</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/hasan-ali-ilter-089606240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-ali-ilter-089606240" height="30" width="40" /></a>
