@@ -9,7 +9,7 @@
 
 <p align="center">- 🌱 I’m currently learning **Java,C,PHP,JavaScript,HTML5,CSS3,Unity,C#**</p>
 
-<p align="center">- 📝 I regularly write articles on [https://medium.com/@hasanilter003](https://medium.com/@hasanilter003]</p>
+<p align="center">- 📝 I regularly write articles on [https://medium.com/@hasanilter003]</p>
 
 <p align="center">- 📫 How to reach me hasanilter003@gmail.com</p>
 
