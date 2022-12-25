@@ -27,4 +27,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaliilter&show_icons=true&locale=en&theme=tokyonight" alt="hasanaliilter" /></p>
 
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=HasanAliilter&theme=tokyonight" alt="HasanAliilter" /></p>
 
