@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/dcfae6af-c105-473f-8489-97b9033db0d2.svg" />
+  <a href="https://wakatime.com/@hasanaliilter" target="blank">
+  <img src="https://wakatime.com/badge/user/dcfae6af-c105-473f-8489-97b9033db0d2.svg" /></a>
   </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanaliilter&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaliilter" /> </p>
