@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanaliilter&label=Profile%20views&color=0e75b6&style=flat" alt="hasanaliilter" /> </p>
 
-<p align="center">- 📝 I regularly write articles on <a href="https://medium.com/@hasanilter003" target="blank" style="color: black; text-decoration: none; border-bottom: none;">Medium</a></p>
+<p align="center">- 📝 I regularly write articles on <a href="https://medium.com/@hasanilter003" target="blank" style="color: black; text-decoration: none; border-bottom: none;">medium</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
